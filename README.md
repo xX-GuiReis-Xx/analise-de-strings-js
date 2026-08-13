@@ -15,3 +15,5 @@ https://xx-guireis-xx.github.io/analise-de-strings-js/
 ## Autor
 
 Guilherme Reis
+
+
