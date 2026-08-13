@@ -18,6 +18,6 @@ Guilherme Reis
 
 ## Preview
 
-![Preview do projeto](imagem.png)
+![Preview do projeto](Preview)
 
 
