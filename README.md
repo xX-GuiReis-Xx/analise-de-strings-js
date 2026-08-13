@@ -16,4 +16,8 @@ https://xx-guireis-xx.github.io/analise-de-strings-js/
 
 Guilherme Reis
 
+## Preview
+
+![Preview do projeto](imagem.png)
+
 
